@@ -1,0 +1,21 @@
+﻿order_id,date,customer_id,city,state,product_category,price,freight_value,delivery_time_days,review_score
+1001,2025-01-02,C001,Sao Paulo,SP,Eletronicos,1200,50,3,5
+1002,2025-01-03,C002,Rio de Janeiro,RJ,Moda,200,30,7,3
+1003,2025-01-04,C003,Belo Horizonte,MG,Casa,350,25,5,4
+1004,2025-01-05,C001,Sao Paulo,SP,Eletronicos,800,40,2,5
+1005,2025-01-06,C004,Curitiba,PR,Esporte,150,20,10,2
+1006,2025-01-07,C005,Salvador,BA,Moda,300,35,6,3
+1007,2025-01-08,C006,Fortaleza,CE,Casa,500,45,8,4
+1008,2025-01-09,C002,Rio de Janeiro,RJ,Eletronicos,2200,60,4,5
+1009,2025-01-10,C007,Porto Alegre,RS,Esporte,180,25,9,2
+1010,2025-01-11,C008,Recife,PE,Moda,250,30,6,3
+1011,2025-01-12,C009,Goiania,GO,Casa,400,20,5,4
+1012,2025-01-13,C010,Campinas,SP,Eletronicos,1500,55,3,5
+1013,2025-01-14,C003,Belo Horizonte,MG,Moda,220,25,7,3
+1014,2025-01-15,C004,Curitiba,PR,Casa,600,35,6,4
+1015,2025-01-16,C005,Salvador,BA,Esporte,130,20,11,2
+1016,2025-01-17,C006,Fortaleza,CE,Eletronicos,900,50,4,5
+1017,2025-01-18,C007,Porto Alegre,RS,Moda,270,30,8,3
+1018,2025-01-19,C008,Recife,PE,Casa,450,25,6,4
+1019,2025-01-20,C009,Goiania,GO,Eletronicos,2000,60,3,5
+1020,2025-01-21,C010,Campinas,SP,Esporte,160,20,9,2
