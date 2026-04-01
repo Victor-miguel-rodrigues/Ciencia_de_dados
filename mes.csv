@@ -1,0 +1,36 @@
+data,produto,categoria,quantidade,preco_unitario,cidade,vendedor
+2025-01-05,Notebook,Eletronicos,2,3500,São Paulo,Carlos
+2025-01-06,Mouse,Eletronicos,5,80,Rio de Janeiro,Ana
+2025-01-07,Teclado,Eletronicos,3,150,Belo Horizonte,João
+2025-01-08,Cadeira,Moveis,1,900,Curitiba,Mariana
+2025-01-09,Mesa,Moveis,1,1200,Porto Alegre,Lucas
+2025-01-10,Fone,Eletronicos,4,200,São Paulo,Carlos
+2025-01-11,Notebook,Eletronicos,1,3500,Rio de Janeiro,Ana
+2025-01-12,Mouse,Eletronicos,,80,Belo Horizonte,João
+2025-01-13,Cadeira,Moveis,2,900,Curitiba,Mariana
+2025-01-14,Mesa,Moveis,1,1200,Porto Alegre,Lucas
+2025-02-01,Fone,Eletronicos,3,200,São Paulo,Carlos
+2025-02-02,Notebook,Eletronicos,2,3500,Rio de Janeiro,Ana
+2025-02-03,Mouse,Eletronicos,6,80,Belo Horizonte,João
+2025-02-04,Teclado,Eletronicos,4,150,Curitiba,Mariana
+2025-02-05,Cadeira,Moveis,1,900,Porto Alegre,Lucas
+2025-02-06,Mesa,Moveis,2,1200,São Paulo,Carlos
+2025-02-07,Fone,Eletronicos,3,200,Rio de Janeiro,Ana
+2025-02-08,Notebook,Eletronicos,1,3500,Belo Horizonte,João
+2025-02-09,Mouse,Eletronicos,5,80,Curitiba,Mariana
+2025-02-10,Teclado,Eletronicos,2,150,Porto Alegre,Lucas
+2025-03-01,Cadeira,Moveis,2,900,São Paulo,Carlos
+2025-03-02,Mesa,Moveis,1,1200,Rio de Janeiro,Ana
+2025-03-03,Fone,Eletronicos,4,200,Belo Horizonte,João
+2025-03-04,Notebook,Eletronicos,2,3500,Curitiba,Mariana
+2025-03-05,Mouse,Eletronicos,7,80,Porto Alegre,Lucas
+2025-03-06,Teclado,Eletronicos,3,150,São Paulo,Carlos
+2025-03-07,Cadeira,Moveis,1,900,Rio de Janeiro,Ana
+2025-03-08,Mesa,Moveis,2,1200,Belo Horizonte,João
+2025-03-09,Fone,Eletronicos,3,200,Curitiba,Mariana
+2025-03-10,Notebook,Eletronicos,1,3500,Porto Alegre,Lucas
+2025-03-11,Mouse,Eletronicos,4,80,São Paulo,Carlos
+2025-03-12,Teclado,Eletronicos,2,150,Rio de Janeiro,Ana
+2025-03-13,Cadeira,Moveis,,900,Belo Horizonte,João
+2025-03-14,Mesa,Moveis,1,1200,Curitiba,Mariana
+2025-03-15,Fone,Eletronicos,5,200,Porto Alegre,Lucas
